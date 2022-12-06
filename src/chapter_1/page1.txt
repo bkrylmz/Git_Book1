@@ -1,5 +1,3 @@
-This is the start of my book
-
-page1 will help us get started
-
-Java is cool
+This is the start of my book.
+page1 will help us get started.
+Java is cool.
